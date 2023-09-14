@@ -47,3 +47,9 @@ This is a basic implementation of a task management application. You can enhance
 ## Contributors
 
 - Amar
+
+## Contact
+
+For any questions or inquiries about this project, feel free to contact us at amar.tiwari.8355@gmail.com or reach out on Twitter: [@Tiwari__Amar](https://twitter.com/Tiwari__Amar) or you can reach out to us on Discord: rexon2.0.
+
+Enjoy exploring new recipes and happy cooking!
